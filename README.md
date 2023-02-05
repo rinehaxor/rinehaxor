@@ -14,4 +14,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinehaxor&show_icons=true&theme=dark)](https://github.com/rinehaxor/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&show_icons=true&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinehaxor&layout=compact&show_icons=true&theme=dark)](https://github.com/rinehaxor/github-readme-stats)
+
