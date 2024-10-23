@@ -16,6 +16,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinehaxor&show_icons=true&locale=en" alt="rinehaxor" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinehaxor&" alt="rinehaxor" /></p>
